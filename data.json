@@ -1,0 +1,21 @@
+[
+    {
+        "email": "laura.parker@yogaclasses.com",
+        "name": "Laura Parker",
+        "instructorname": "Laura Parker",
+        "role": "instructor",
+        "photoURL": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "address": "5678 Maple Avenue, Springfield, USA",
+        "about": "Jane is a certified yoga instructor with a passion for mindfulness and wellness.",
+        "skills": null
+    },
+    {
+        "email": "alice.brown@yogaclasses.com",
+        "name": "Alice Brown",
+        "role": "instructor",
+        "photoURL": "https://images.pexels.com/photos/28224113/pexels-photo-28224113/free-photo-of-a-woman-with-a-hat-on-smiling.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "address": "910 Oak Street, Springfield, USA",
+        "about": "Alice manages the administrative tasks at the yoga studio, ensuring smooth operations.",
+        "skills": null
+    }
+]
